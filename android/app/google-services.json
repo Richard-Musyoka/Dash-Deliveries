@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594006848019",
+    "project_id": "dashdeliveries-bb312",
+    "storage_bucket": "dashdeliveries-bb312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594006848019:android:140bf5b9cb2bf231f205e6",
+        "android_client_info": {
+          "package_name": "com.milestone.dashlet_deliveries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYE9C9tQ3UpbeqNlup7sVmx-M4gdJ8zXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
